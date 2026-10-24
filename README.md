@@ -1,16 +1,25 @@
-## Hi there 👋
+### Welcome to my corner of GitHub — I'm itshustleuwu 👋
 
-<!--
-**itshustleuwu/itshustleuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Singapore.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### A little about me
+
+- happier in a terminal than in an IDE
+- reach me at **@itshustleuwu** on GitHub
+- currently deep in serverless
+- usually building small tools nobody asked for
+- keeps notes about indie web projects that will never be published
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=itshustleuwu&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshustleuwu&layout=compact&langs_count=8&hide_border=true&theme=merko" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/TypeScript-39d353?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-39d353?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/React-39d353?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/SQLite-39d353?style=for-the-badge&logoColor=white" alt="SQLite" />
+
+> It works on my machine.
+
+<img src="https://img.shields.io/github/followers/itshustleuwu?label=Followers&style=social" alt="Followers" /> <a href="https://github.com/itshustleuwu"><img src="https://img.shields.io/badge/GitHub-@itshustleuwu-39d353?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>Still learning, still shipping.</sub>
